@@ -1,8 +1,10 @@
 ##  ✈️ Flights Case Study
 
-A small comprehensive case study that contains exploratory analysis performed on an Indian flights Dataset.
+In this casestudy, we will be exploring a dataset containing information about flights, including their departure and arrival times, airports, airlines, and more.
+By the end of this analysis, we will have a better understanding of the flights dataset and the insights that can be derived from it using SQL. 
+This knowledge can be used to make data-driven decisions and to inform future analyses.
 
-It focuses more on the use of DATETIME Functions available in MYSQL
+This casestudy focuses more on the use of DATETIME Functions available in MYSQL.
 
 ---
 
